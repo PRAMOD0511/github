@@ -1,2 +1,5 @@
-bbdjbdb
-hi hello nmaste every one 
+git init 
+git add
+git commit
+git info
+
