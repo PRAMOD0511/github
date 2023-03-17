@@ -1,5 +1,6 @@
-git init 
-git add
-git commit
-git info
+# git init 
+# git add
+# git commit
+* 
+*git info
 
